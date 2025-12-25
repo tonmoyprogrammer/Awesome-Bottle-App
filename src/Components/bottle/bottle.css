@@ -8,12 +8,12 @@
 
 .bottle img{
     margin:10px auto ;
-    width:250px;
+    width:260px;
     border-radius: 20px;
 }
 
 .bottle button{
-    margin:10px auto;
+    margin-bottom:10px;
     padding:10px 30px;
     border-radius: 20px;
     background-color:goldenrod;
