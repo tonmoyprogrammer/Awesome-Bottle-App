@@ -1,0 +1,29 @@
+.bottle{
+    border-bottom: 1px solid darkmagenta;
+    border-radius: 25px;
+    text-align: center;
+   
+}
+
+
+.bottle img{
+    margin:10px auto ;
+    width:250px;
+    border-radius: 20px;
+}
+
+.bottle button{
+    margin:10px auto;
+    padding:10px 30px;
+    border-radius: 20px;
+    background-color:goldenrod;
+    font-weight: 500;
+    color:black;
+    border:1px solid darkolivegreen
+    
+}
+.bottle button:hover{
+    background-color: black;
+    color:white;
+    border:2px solid gray;
+}
