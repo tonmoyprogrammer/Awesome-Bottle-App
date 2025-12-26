@@ -1,0 +1,35 @@
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap:10px
+}
+
+.cart{
+    border:1px solid gray;
+    border-radius: 20px;
+    padding: 8px 15px;
+   text-align: center;
+}
+
+.cart button{
+     margin:15px 0px 10px 0px;
+     border:1px solid gray;
+    padding:10px 30px;
+    border-radius: 20px;
+    background-color:black;
+    font-weight: 500;
+    color:white;
+    
+
+}
+
+.cart button:hover{
+    background-color: goldenrod;
+    color:black;
+ 
+}
+
+.cart img{
+    width: 120px;
+    border-radius: 22px;
+}

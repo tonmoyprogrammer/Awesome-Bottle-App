@@ -1,9 +1,8 @@
-import React from 'react';
+
 import './bottle.css'
 
 const Bottle = ({bottle,addHandleCart }) => {
-    const {name,seller,price,stock,img} = bottle;
-
+    const {name,seller,price,img,stock} = bottle;
     return (
 
         <div className="bottle">
